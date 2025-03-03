@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Backend Stuff
-st.set_page_config(layout="wide")
+#st.set_page_config(layout="wide")
 @st.cache_data
 def load_players_data(players):
     player_data = load_data()

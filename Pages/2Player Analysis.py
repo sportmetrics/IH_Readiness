@@ -8,7 +8,7 @@ import plotly.express as px
 # Backend
 
 # Page config
-st.set_page_config(layout="wide")
+#st.set_page_config(layout="wide")
 
 # Function to load Player data (cached)
 @st.cache_data

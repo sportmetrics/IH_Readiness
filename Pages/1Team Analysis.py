@@ -3,7 +3,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 
-st.set_page_config(layout="wide")
+#st.set_page_config(layout="wide")
 
 # Function to load all data (cached)
 @st.cache_data

@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 
 # Backend Stuff
-st.set_page_config(layout="wide")
+#st.set_page_config(layout="wide")
 
 @st.cache_data
 def load_players_data(players):
